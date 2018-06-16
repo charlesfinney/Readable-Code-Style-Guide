@@ -1,4 +1,5 @@
 
+not sure how to do this just lets get started add suggestions as you see fit 
 ## Todo:
 add book link
 # Readable-Code-Style-Guide
