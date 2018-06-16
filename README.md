@@ -13,3 +13,6 @@ let us use [Prettier](https://prettier.io/)
 * font of the code = Operator Mono
 ## 
 * camelCase or snake_case under_score or kebab-case e.g. "The-quick-brown-fox-jumps-over-the-lazy-dog"
+## Resources 
+
+[Winter is coming theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=code-twitter-jopapa)
