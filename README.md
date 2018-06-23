@@ -1,7 +1,8 @@
 
 not sure how to do this just lets get started add suggestions as you see fit 
 ## Todo:
-add book link
+* add book link
+* competitive example: [styleguide.torproject.org](https://styleguide.torproject.org/getting-started/)
 # Readable-Code-Style-Guide
 Team Style Guide for more readable code check out "Clean Code" book
 ## Rule 1
